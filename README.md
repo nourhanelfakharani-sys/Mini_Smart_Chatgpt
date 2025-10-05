@@ -31,8 +31,9 @@ A simple chat system powered by AI, allowing users to send and receive messages,
 - Frontend: Member 1
 - Backend: Member 2
 - Database: Member 3
-- Testing & Documentation: Member 4 (You)
+- Testing & Documentation: Member 4 
 
 ## Testing
 - All modules are tested together to ensure proper integration.
 - Issues found during integration are documented and communicated with the team.
+
