@@ -56,5 +56,12 @@ git clone https://github.com/YourUsername/SmartMiniGPT.git
 ## Testing
 - All modules are tested together to ensure proper integration.
 - Issues found during integration are documented and communicated with the team.
+cd SmartMiniGPT
+python -m venv venv
+venv\Scripts\activate     # On Windows
+# OR
+source venv/bin/activate  # On macOS/Linux
+
+
 
 
