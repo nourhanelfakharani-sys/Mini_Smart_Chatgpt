@@ -42,8 +42,9 @@ python -m venv venv
 # OR
 source venv/bin/activate    # On macOS/Linux
 pip install flask openai python-dotenv
-python app.py
+  python mydatabase/app.py                                                                                                   
 http://127.0.0.1:5000
+
 
 
 
